@@ -118,3 +118,5 @@ Use these command-line arguments to search for and verify Solana wallet balances
 ## License
 
 This project is licensed under the [MIT License](/LICENSE).
+
+Update: Corrected broken integration guide links
